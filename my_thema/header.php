@@ -1,3 +1,5 @@
 <header>
-  <span>ヘッダー</span>
+  <div class="header-content">
+    ヘッダー
+  </div>
 </header>

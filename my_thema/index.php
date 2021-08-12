@@ -15,7 +15,9 @@
   <?php get_header(); ?>
 
   <main>
-    <span>コンテント</span>
+    <div class="lp-body">
+      コンテント
+    </div>
   </main>
 
   <?php get_footer(); ?>

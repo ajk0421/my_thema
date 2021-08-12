@@ -1,3 +1,5 @@
 <footer>
-  <span>フッター</span>
+  <div class="footer-content">
+    フッター
+  </div>
 </footer>
